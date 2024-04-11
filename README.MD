@@ -1,30 +1,17 @@
-# Developer portfolio that's a 2D game
+# 2D Game Portfolio
 
-Inspired by the many creative 3D developer portfolios, I create one that's 2D instead.
-This is meant as a template that you can use to build your own. It works on both desktop
-and mobile.
+This was made following the fabulous tutorial by JSLegend taht can be found here:  https://www.youtube.com/watch?v=gwtfWORCN0U
+
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Live Demo : https://jslegenddev.github.io/portfolio/
+Learn about me by playing the game here: https://jslegenddev.github.io/portfolio/
+## How It's Made:
 
-Watch the tutorial I made on how to build this on YouTube : https://www.youtube.com/watch?v=gwtfWORCN0U
+**Tech used:** HTML, JavaScript, Kaboom, Vite
 
-# How to run
+This project was a blast to work on. I loved the idea of using a game as a portfolio because it's the perfect way to showcase who you are as a human--personal and professional! 
 
-Note: You need `Node.js` and `npm` installed on your machine.
+## Lessons Learned:
 
-`npm install` then `npm run dev`
-
-# How to build
-
-`npm run build` and a dist folder should be created.
-
-# How to preview the build
-
-`npm run preview`
-
-# How to host?
-
-Once the project is built. Take the content of the dist folder and drag and drop it
-to your favorite static site hosting provider.
+I love following tutorials to see how different developers would write code, organize the file structure, etc. This was a really fun way to dip my toes into game-building, and I'm definitely interested in doing more. 
