@@ -3,7 +3,7 @@ Click around or use arrow keys to move. Bump into objects. Get to me know and se
 
 **Link to project:** https://sav-2d-portfolio.netlify.app/
 
-![A screenshot of the project](./developerportfoliothumbnail.png)
+![A screenshot of the project](./portfolioimage.png)
 
 ## How It's Made:
 
