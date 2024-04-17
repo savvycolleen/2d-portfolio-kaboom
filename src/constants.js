@@ -1,23 +1,14 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-    I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-  "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-  You'll learn how I built this portfolio you're currently playing through!`,
-  tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-  <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-  Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-  projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-  library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-  I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-  exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+  pc: `This is my computer! I've done tons of learning and teaching from here. I am currently a full-stack developer, and I love building new projects. You should check out my <a href="https://savannah-portfolio.netlify.app/" target="_blank">portfolio</a>!`,
+  "cs-degree": `Oh, look! My degrees! I have my bachelor's in elementary education, and my master's in literacy. While seemingly irrelevant for coding, many of my passions began here. Also, niche obssessions like brain states and metacognition, but I digress. Here is a <a href="https://docs.google.com/presentation/d/19RCg0LBKIoSMufgiN86zl8ZvHyJ4pzU-M0DmyP_ZXDg/edit?usp=sharing" target="_blank">lecture on MVC</a> to prove that I can tie my worlds together. It may or may not be Harry Potter style.`,
+  "sofa-table": `That's my coffee table. You'll likely find empty coffee cups and crochet projects galore here. I am constantly either starting a new project, or finding my next project to start. Oh, can you relate? Let's be <a href="https://www.instagram.com/savvydoesyarn/" target="_blank">friends</a>!`,
+  tv: `That's my TV. I won't lie. I love binging a good series. From Friends, to Downtown Abbey, to the Sopranos, I love it all. My most recent watches are Shōgun, The 3 Body Problem, and Below Deck: Mediterranean. Variety is important, right? 😅 Tell me what you are watching! I'm not kidding. I want to know.`,
+  bed: `Before bed is often my brain's favorite time to obssessively plot what projects I should start next or deep dive into a new obssession. Anyone else?`,
+  resume: `This is my desk, and on it is my resume. I won't be posting it here, but it's pretty cool, and you should definitely ask to see it. Here's my <a href="https://www.linkedin.com/in/savannah-acevedo-4ba960123/" target="_blank">linkedin</a>!`,
+  projects: `Info about this project : I would have never dreamt I could make something like this. Hats off to JSLegendDev. Watch his tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>! I'm also very thankful for my <a href="https://100devs.org/" target="_">100devs</a> and <a href="https://virtualcoffee.io/" target="_">VirtualCoffee</a> communities.`,
+  library: `I have been an avid read since I was a child, but I am not an obssessive book-buyer (thank you, public libraries!).
+  Thanks to my English minor, I do have some British Literature on my shelves, and lots of kids books for my toddler. In recent years, I have been really into fantasy! Have we read any of the <a href="https://www.goodreads.com/user/show/91040164-savannah-colleen" target="_blank">same books</a>? Let's dish!`,
+  exit: `When you are ready to leave, just close the tab. Thanks for visiting!`,
 };
